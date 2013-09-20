@@ -12,6 +12,11 @@ being stashed somewhere in a given directory.
 
 Usage
 -----
+To load these functions, just source the shell script in your
+bashrc/zshrc/whateverrc:
+
+    source /path/to/virtualenv-tools/repo/virtualenv.sh
+
 Creating a new virtualenv:
 
     mkvenv
